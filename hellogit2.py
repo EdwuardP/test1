@@ -1,1 +1,1 @@
-print("dos")
+print("DOS 2")

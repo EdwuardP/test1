@@ -1,1 +1,1 @@
-print("tres")
+print("TRES 3")
