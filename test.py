@@ -1,2 +1,4 @@
 print("Pruebas unitarias")
-print("pruebas exitosas")
+print("pruebas 1")
+
+print("pruebas 2")
